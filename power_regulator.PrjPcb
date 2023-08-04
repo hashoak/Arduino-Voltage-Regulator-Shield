@@ -102,8 +102,186 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHSMHWHW
 
+[Document4]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=PCB1.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUDFHNPO
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for power_regulator\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for power_regulator\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GM
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for power_regulator\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for power_regulator\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for power_regulator\ODB\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for power_regulator\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for power_regulator\Pick Place\Pick Place for PCB1.txt
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for power_regulator\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Configuration1]
